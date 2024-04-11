@@ -1,0 +1,14 @@
+{
+  "name": "tuts",
+  "version": "1.0.0",
+  "description": "tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oluwatosin Ayeni",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
