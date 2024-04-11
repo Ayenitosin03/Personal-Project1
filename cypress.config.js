@@ -5,7 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://squad.stage.kobo360.com/",
+    baseUrl: "https://www.saucedemo.com/",
     experimentalStudio: true
   },
 });
